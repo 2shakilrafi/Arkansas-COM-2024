@@ -1,0 +1,1 @@
+This repository contains a poster I made for the inaugural Arkansas Celebration of Mind event. This even showcases neat mathematical puzzles for K-12 students and discrusses some fun math puzzles. It is an ooutreach activity by the Department of Mathematical Sciences
